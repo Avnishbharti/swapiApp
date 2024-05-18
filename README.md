@@ -1,8 +1,8 @@
-# React + Vite
+Github link : https://github.com/Avnishbharti/swapiApp.git
+Deploy link :https://swapi-app-orpin.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Instructions to clone and run the git repo
+1. clone the repo in and go to swapiApp directory
+2.After clone it use command to install dependencies and packages "npm install"
+3.After that run the application by using command "npm run dev"
